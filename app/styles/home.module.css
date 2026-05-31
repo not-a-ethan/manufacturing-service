@@ -9,3 +9,24 @@
 .header {
     font-size: 500%;
 }
+
+.cards {
+    justify-content: center;
+
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+.faq{
+    width: 45vw;
+}
+
+.faq_dropdown {
+    margin: 0 auto;
+
+    width: 90%;
+}
+
+.specs {
+    width: 45vw;
+}

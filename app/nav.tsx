@@ -9,8 +9,8 @@ export function Navbar() {
                 <a href="/" className={`${styles.logo} flex items-center gap-3`}>Ethans<br />Manfucaturing</a>
 
                 <ul className="flex items-center gap-4">
-                    <li><Button variant="tertiary" className={`tertiary`}>Process</Button></li>
-                    <li><Button variant="tertiary" className={`tertiary`}>Free Quote</Button></li>
+                    <li><Button variant="tertiary">Process</Button></li>
+                    <li><Button variant="tertiary">Free Quote</Button></li>
                     <li>
                         <Button>Log In/Signup</Button>
                     </li>
