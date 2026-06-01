@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+
+    width: 95vw;
+    margin: 0 auto;
+}
+
+.buffer {
+    height: 10vh;
+}
+
+.header {
+    font-size: 500%;
+}
+
+.divider {
+    margin-bottom: 1%;
+}

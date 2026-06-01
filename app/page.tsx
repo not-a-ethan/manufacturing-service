@@ -1,6 +1,6 @@
 import { Accordion, AccordionBody, AccordionHeading, AccordionItem, AccordionPanel, AccordionTrigger, Card, Link, Table, TableBody, TableCell, TableColumn, TableContent, TableHeader, TableResizableContainer, TableScrollContainer } from "@heroui/react";
 
-import {Box, ChevronDown, CircleDollar, Wrench} from '@gravity-ui/icons';
+import { Box, ChevronDown, CircleDollar, Wrench } from '@gravity-ui/icons';
 
 import styles from "./styles/home.module.css";
 
