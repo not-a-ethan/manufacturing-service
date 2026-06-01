@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+}
+
+.buffer {
+    height: 2vh;
+}
+
+.header {
+    font-size: 500%;
+}
+
+.files {
+    width: 80vw;
+    height: 10vh;
+
+    text-align: center;
+}
+
+.options {
+    margin-left: 1%;
+}
+
+.infillType {
+    display: inline-block;
+}
+
+.infilTypeOptions {
+    display: inline-block;
+
+    min-width: 10vw;
+}

@@ -1,4 +1,4 @@
-import { Button } from "@heroui/react";
+import { Button, Link } from "@heroui/react";
 
 import styles from "./styles/nav.module.css";
 
@@ -9,8 +9,8 @@ export function Navbar() {
                 <a href="/" className={`${styles.logo} flex items-center gap-3`}>Ethans<br />Manfucaturing</a>
 
                 <ul className="flex items-center gap-4">
-                    <li><Button variant="tertiary">Process</Button></li>
-                    <li><Button variant="tertiary">Free Quote</Button></li>
+                    <li><Button variant="tertiary"><Link href="/process">Process</Link></Button></li>
+                    <li><Button variant="tertiary"><Link href="/quote">Free Quote</Link></Button></li>
                     <li>
                         <Button>Log In/Signup</Button>
                     </li>
